@@ -1,0 +1,39 @@
+@media (max-width: 1360px){
+    
+    .container{
+        display: table-cell;
+        
+    }
+    .header-wrapper{
+        display: inline-flex;
+       
+        
+    }
+    
+    .nav {
+        margin-right: 90px;
+    }
+    
+    .header-block-image{
+        display: block;
+    }
+    
+    .header-block-title-text{
+        font-size: 60px;
+    }
+    
+    .scribble-2{
+        display: none;
+    }
+    
+    .header-img{
+        width: 600px;
+    }
+    
+    .memory .container{
+        display: block;
+      
+    }
+    
+    
+}
